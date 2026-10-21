@@ -1,0 +1,5 @@
+aws_region = "ap-south-1"
+vpc_id     = "vpc-REPLACE_ME"
+subnet_id  = "subnet-REPLACE_ME"
+ami_id     = "ami-REPLACE_ME"
+ssh_cidr   = "203.0.113.10/32" # Replace with your own public IP/32 before applying.
